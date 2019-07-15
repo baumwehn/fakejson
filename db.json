@@ -3,20 +3,20 @@
     {
       "id": 1,
       "year": 2013,
-      "money": 1000,
-      "number": 60
+      "money": 699,
+      "number": 59
     },
     {
       "id": 2,
       "year": 2014,
-      "money": 2000,
-      "number": 80
+      "money": 650,
+      "number": 60
     },
     {
       "id": 3,
       "year": 2015,
-      "money": 600,
-      "number": 40
+      "money": 700,
+      "number": 70
     }
   ]
 }
