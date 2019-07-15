@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "year": 2013,
+      "money": 100,
+      "number": 10
+    },
+    {
+      "year": 2014,
+      "money": 100,
+      "number": 10
+    },
+    {
+      "year": 2015,
+      "money": 100,
+      "number": 10
+    }
+  ]
+}
