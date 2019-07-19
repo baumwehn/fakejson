@@ -1,22 +1,16 @@
 {
   "data": [
     {
-      "id": 1,
-      "year": 2013,
-      "money": 699,
-      "number": 59
+      "count": 1,
+      "downloadDate": "2019-01-22 13:53:14",
     },
     {
-      "id": 2,
-      "year": 2014,
-      "money": 650,
-      "number": 60
+      "count": 3,
+      "downloadDate": "2019-02-11 15:22:45",
     },
-    {
-      "id": 3,
-      "year": 2015,
-      "money": 700,
-      "number": 70
+ {
+      "count": 5,
+      "downloadDate": "2019-02-13 12:02:51",
     }
   ]
 }
